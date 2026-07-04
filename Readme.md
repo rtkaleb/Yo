@@ -1,4 +1,4 @@
-# Yo
+# Clon de Pinterest - Ejercicio
 
 Ejercicio de práctica de HTML: maqueta de una interfaz estilo Pinterest ("Pinterest 2.0"), con secciones aportadas por distintos integrantes de un equipo (identificadas por comentarios de nombre en el código: SCAR, KALEB, JUSEF, TONY NAPOLES, JONATAN, JORG ADAN).
 
